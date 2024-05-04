@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .carousel-item img {
+    height: 600px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+  }
+  
